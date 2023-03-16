@@ -1,8 +1,8 @@
 # android_device_xiaomi_renoir-miuicamera
 
-Prebuilt stock MIUI Camera for Xiaomi 11 Lite (renoir), to include in custom ROM builds.
+Prebuilt stock MIUI Camera for Xiaomi 11 Lite 5G (renoir), to include in custom ROM builds.
 
-Extracted from renoir MIUI package.
+Extracted from renoir MIUI package. (refer proprietary-files.txt for version).
 
 ### How to use?
 
